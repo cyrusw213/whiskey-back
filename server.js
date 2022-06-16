@@ -6,6 +6,11 @@ const app = express();
 
 const { PORT, MONGODB_URI } = process.env; 
 
+// IMPORT SEED DATA JSON FILE
+const whiskeyData = require('./whiskeyData.json');
+
+// IMPORT WHISKEY SCHEMA
+const Whiskey = require('./models/whiskeySchema')
 
 // MIDDLEWARE DEPENDENCIES /////////////////////////////
 ///////////////////////////////////////////////////////
@@ -38,6 +43,10 @@ app.get("/", (req, res) => {
     res.send("Hello World")
 }); 
 
+// route for retrieving all whiskey data 
+app.get("/all", (req, res) => {
+    res.json(whiskeyData);
+});
 
 
 
