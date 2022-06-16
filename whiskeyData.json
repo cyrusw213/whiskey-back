@@ -5,7 +5,8 @@
     "Categories": "Irish Whiskey",
     "Price": 29.99,
     "Brand": "Jameson Irish Whiskey",
-    "Country": "Ireland"
+    "Country": "Ireland",
+    "Website": "https://www.jamesonwhiskey.com/en-us/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Bulleit-Bourbon-3.jpeg",
@@ -13,7 +14,8 @@
     "Categories": "Bourbon",
     "Price": 31.99,
     "Brand": "Bulleit",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.bulleit.com/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jack-Daniel8217s-Old-No.-7-Tennessee-Whiskey-3.jpeg",
@@ -21,7 +23,8 @@
     "Categories": "Bourbon",
     "Price": 24.99,
     "Brand": "Jack Daniel's",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.jackdaniels.com/en-us/whiskey/old-no-7"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Fireball-Cinnamon-Whisky-3.jpeg",
@@ -29,7 +32,9 @@
     "Categories": "Flavored",
     "Price": 28.99,
     "Brand": "Fireball",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.fireballwhisky.com/"
+
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Maker8217s-Mark-Bourbon-Whisky-3.jpeg",
@@ -37,7 +42,8 @@
     "Categories": "Bourbon",
     "Price": 55.99,
     "Brand": "Maker's Mark",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.makersmark.com/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jim-Beam-Bourbon-Whiskey-3.jpeg",
@@ -45,7 +51,8 @@
     "Categories": "Bourbon",
     "Price": 29.99,
     "Brand": "Jim Beam",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.jimbeam.com/en/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Basil-Hayden8217s-Kentucky-Straight-Bourbon-Whiskey-3.jpeg",
@@ -53,7 +60,8 @@
     "Categories": "Bourbon",
     "Price": 44.99,
     "Brand": "Basil Hayden's",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.basilhaydenbourbon.com/bourbon-whiskey"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Woodford-Reserve-Kentucky-Straight-Bourbon-Whiskey-3.jpeg",
@@ -61,7 +69,8 @@
     "Categories": "Bourbon",
     "Price": 38.49,
     "Brand": "Woodford Reserve",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.woodfordreserve.com/whiskey/straight-bourbon-whiskey/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Johnnie-Walker-Black-Label-Blended-Scotch-Whisky-3.jpeg",
@@ -69,7 +78,8 @@
     "Categories": "Scotch",
     "Price": 38.99,
     "Brand": "Johnnie Walker",
-    "Country": "Scotland"
+    "Country": "Scotland",
+    "Website": "https://www.johnniewalker.com/en-us/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Crown-Royal-Fine-Deluxe-Blended-Canadian-Whisky-3.jpeg",
@@ -77,7 +87,8 @@
     "Categories": "Canadian",
     "Price": 28.99,
     "Brand": "Crown Royal",
-    "Country": "Canada"
+    "Country": "Canada",
+    "Website": "https://www.crownroyal.com/canadian-whisky/crown-royal-deluxe/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Skrewball-Peanut-Butter-Whiskey-2.jpeg",
@@ -85,7 +96,8 @@
     "Categories": "Flavored",
     "Price": 29.99,
     "Brand": "Skrewball Whiskey",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.skrewballwhiskey.com/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Knob-Creek-Kentucky-Straight-Bourbon-Whiskey-2.jpeg",
@@ -93,7 +105,8 @@
     "Categories": "Bourbon",
     "Price": 34.99,
     "Brand": "Knob Creek",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.knobcreek.com/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jack-Daniel8217s-Tennessee-Honey-2.jpeg",
@@ -101,7 +114,8 @@
     "Categories": "Flavored",
     "Price": 46.93,
     "Brand": "Jack Daniel's",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.jackdaniels.com/en-us/whiskey/tennessee-honey"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Bulleit-Rye-2.jpeg",
@@ -109,7 +123,8 @@
     "Categories": "Rye",
     "Price": 31.99,
     "Brand": "Bulleit",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.bulleit.com/whiskeys/bulleit-rye/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Buffalo-Trace-Bourbon-2.jpeg",
@@ -117,7 +132,8 @@
     "Categories": "Bourbon",
     "Price": 31.99,
     "Brand": "Buffalo Trace",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.buffalotrace.com/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Crown-Royal-Regal-Apple-Flavored-Whisky-2.jpeg",
@@ -125,7 +141,8 @@
     "Categories": "Canadian",
     "Price": 28.59,
     "Brand": "Crown Royal",
-    "Country": "Canada"
+    "Country": "Canada",
+    "Website": "https://www.crownroyal.com/canadian-whisky/crown-royal-regal-apple/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Evan-Williams-Bourbon-2.jpeg",
@@ -133,7 +150,8 @@
     "Categories": "Bourbon",
     "Price": 25.91,
     "Brand": "Evan Williams Whiskey",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://evanwilliams.com/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Johnnie-Walker-Red-Label-Blended-Scotch-Whisky-2.jpeg",
@@ -141,7 +159,8 @@
     "Categories": "Scotch",
     "Price": 39.99,
     "Brand": "Johnnie Walker",
-    "Country": "Scotland"
+    "Country": "Scotland",
+    "Website": "https://www.johnniewalker.com/en-us/our-whisky/core-range/johnnie-walker-red-label/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Wild-Turkey-101-2.jpeg",
@@ -149,7 +168,8 @@
     "Categories": "Bourbon",
     "Price": 25.99,
     "Brand": "Wild Turkey Bourbon",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.wildturkeybourbon.com/products/wild-turkey-101/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/The-Glenlivet-12-Year-2.jpeg",
@@ -157,7 +177,8 @@
     "Categories": "Scotch",
     "Price": 49.99,
     "Brand": "The Glenlivet",
-    "Country": "Scotland"
+    "Country": "Scotland",
+    "Website": "https://www.theglenlivet.com/en-US/the-collection#filter=*"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Suntory-Toki-Japanese-Whisky-2.jpeg",
@@ -165,7 +186,8 @@
     "Categories": "Japanese",
     "Price": 39.99,
     "Brand": "Suntory",
-    "Country": "Japan"
+    "Country": "Japan",
+    "Website": "https://whisky.suntory.com/en/na/products/toki"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Tullamore-D.E.W.-Irish-Whiskey-2.jpeg",
@@ -173,7 +195,8 @@
     "Categories": "Irish",
     "Price": 27.99,
     "Brand": "Tullamore Dew",
-    "Country": "Ireland"
+    "Country": "Ireland",
+    "Website": "https://www.tullamoredew.com/en-gb/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Crown-Royal-Vanilla-Flavored-Whisky-2.jpeg",
@@ -181,7 +204,8 @@
     "Categories": "Flavored",
     "Price": 27.99,
     "Brand": "Crown Royal",
-    "Country": "Canada"
+    "Country": "Canada",
+    "Website": "https://www.crownroyal.com/canadian-whisky/crown-royal-vanilla/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jack-Daniel8217s-Gentleman-Jack-Tennessee-Whiskey-2.jpeg",
@@ -189,7 +213,10 @@
     "Categories": "American",
     "Price": 32.99,
     "Brand": "Jack Daniel's",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.jackdaniels.com/en-us/whiskey/gentleman-jack"
+
+
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Crown-Royal-Peach-Flavored-Whisky-2.jpeg",
@@ -197,7 +224,8 @@
     "Categories": "Flavored",
     "Price": 32.79,
     "Brand": "Crown Royal",
-    "Country": "Canada"
+    "Country": "Canada",
+    "Website": "https://www.crownroyal.com/canadian-whisky/crown-royal-peach/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Elijah-Craig-Small-Batch-Bourbon-2.jpeg",
@@ -205,7 +233,8 @@
     "Categories": "Bourbon",
     "Price": 32.22,
     "Brand": "Elijah Craig",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://elijahcraig.com/small-batch"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Four-Roses-Bourbon-2.jpeg",
@@ -213,7 +242,8 @@
     "Categories": "Bourbon",
     "Price": 23.06,
     "Brand": "Four Roses",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://fourrosesbourbon.com/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/The-Macallan-Double-Cask-12-Years-Old-2.jpeg",
@@ -221,7 +251,8 @@
     "Categories": "Scotch",
     "Price": 73.99,
     "Brand": "The Macallan",
-    "Country": "Scotland"
+    "Country": "Scotland",
+    "Website": "https://www.themacallan.com/en-us/double-cask-12-years-old"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Crown-Royal-Black-Blended-Canadian-Whisky-2.jpeg",
@@ -229,7 +260,8 @@
     "Categories": "Canadian",
     "Price": 32.99,
     "Brand": "Crown Royal",
-    "Country": "Canada"
+    "Country": "Canada",
+    "Website": "https://www.crownroyal.com/canadian-whisky/crown-royal-black/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Basil-Hayden8217s-Dark-Rye-Whiskey-2.jpeg",
@@ -237,7 +269,8 @@
     "Categories": "Rye",
     "Price": 44.99,
     "Brand": "Basil Hayden's",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.basilhaydenbourbon.com/dark-rye"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Blanton8217s-Single-Barrel-Bourbon-2.jpeg",
@@ -245,7 +278,8 @@
     "Categories": "Bourbon",
     "Price": 99.99,
     "Brand": "Blanton's",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.blantonsbourbon.com/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Hibiki-Japanese-Harmony-Whisky-2.jpeg",
@@ -253,7 +287,8 @@
     "Categories": "Japanese",
     "Price": 89.99,
     "Brand": "Hibiki",
-    "Country": "Japan"
+    "Country": "Japan",
+    "Website": "https://whisky.suntory.com/en/na/products/hibiki"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Monkey-Shoulder-Blended-Scotch-2.jpeg",
@@ -261,7 +296,8 @@
     "Categories": "Scotch",
     "Price": 35.99,
     "Brand": "Monkey Shoulder",
-    "Country": "Scotland"
+    "Country": "Scotland",
+    "Website": "https://www.monkeyshoulder.com/en-us"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Maker8217s-46-Bourbon-Whisky-2.jpeg",
@@ -269,7 +305,8 @@
     "Categories": "Bourbon",
     "Price": 40.69,
     "Brand": "Maker's Mark",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.makersmark.com/makers-mark-46"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jim-Beam-Black-Extra-Aged-Bourbon-Whiskey-2.jpeg",
@@ -277,7 +314,9 @@
     "Categories": "Bourbon",
     "Price": 22.99,
     "Brand": "Jim Beam",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.jimbeam.com/en/bourbons/jim-beam-black/"
+
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Eagle-Rare-10yr-Bourbon-2.jpeg",
@@ -285,7 +324,8 @@
     "Categories": "Bourbon",
     "Price": 39.99,
     "Brand": "Eagle Rare",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://eaglerare.com/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Angel8217s-Envy-Kentucky-Straight-Bourbon-Whiskey-2.jpeg",
@@ -293,7 +333,8 @@
     "Categories": "Bourbon",
     "Price": 54.99,
     "Brand": "Angel's Envy",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.angelsenvy.com/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Crown-Royal-Salted-Caramel-Flavored-Whisky-2.jpeg",
@@ -301,7 +342,8 @@
     "Categories": "Flavored",
     "Price": 28.99,
     "Brand": "Crown Royal",
-    "Country": "Canada"
+    "Country": "Canada",
+    "Website": "https://www.crownroyal.com/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jameson-Black-Barrel-2.jpeg",
@@ -309,7 +351,8 @@
     "Categories": "Irish",
     "Price": 39.99,
     "Brand": "Jameson Irish Whiskey",
-    "Country": "Ireland"
+    "Country": "Ireland",
+    "Website": "https://www.jamesonwhiskey.com/en-us/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Laphroaig-10-Year-Old-Islay-Single-Malt-Scotch-Whisky-2.jpeg",
@@ -317,7 +360,8 @@
     "Categories": "Scotch",
     "Price": 59.99,
     "Brand": "Laphroaig",
-    "Country": "Scotland"
+    "Country": "Scotland",
+    "Website": "https://www.laphroaig.com/en/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Proper-No.-Twelve-Irish-Whiskey-2.jpeg",
@@ -325,7 +369,8 @@
     "Categories": "Irish",
     "Price": 29.43,
     "Brand": "Proper Twelve",
-    "Country": "Ireland"
+    "Country": "Ireland",
+    "Website": "https://properwhiskey.com/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/High-West-American-Prairie-Bourbon-Whiskey-2.jpeg",
@@ -333,7 +378,8 @@
     "Categories": "Bourbon",
     "Price": 37.57,
     "Brand": "High West",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.highwest.com/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Four-Roses-Small-Batch-Bourbon-1.jpeg",
@@ -341,7 +387,8 @@
     "Categories": "Bourbon",
     "Price": 37.99,
     "Brand": "Four Roses",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://fourrosesbourbon.com/bourbon/small-batch/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jack-Daniel8217s-Tennessee-Fire-Flavored-Whiskey-1.jpeg",
@@ -349,7 +396,8 @@
     "Categories": "Flavored",
     "Price": 24.99,
     "Brand": "Jack Daniel's",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.jackdaniels.com/en-us/whiskey/tennessee-fire"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Southern-Comfort-Original-2.jpeg",
@@ -357,7 +405,8 @@
     "Categories": "American",
     "Price": 27.99,
     "Brand": "Southern Comfort",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.southerncomfort.com/products/original.html"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/The-Balvenie-12-Year-Old-DoubleWood-Single-Malt-Scotch-Whisky-1.jpeg",
@@ -365,7 +414,8 @@
     "Categories": "Scotch",
     "Price": 69.99,
     "Brand": "The Balvenie",
-    "Country": "Scotland"
+    "Country": "Scotland",
+    "Website": "https://www.thebalvenie.com/our-whisky-collection/cask-finishes/doublewood-12/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Woodford-Reserve-Double-Oaked-Kentucky-Straight-Bourbon-Whiskey-1.jpeg",
@@ -373,7 +423,8 @@
     "Categories": "Bourbon",
     "Price": 56.99,
     "Brand": "Woodford Reserve",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://www.woodfordreserve.com/whiskey/double-oaked/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Uncle-Nearest-1856-Premium-Whiskey-1.jpeg",
@@ -381,7 +432,8 @@
     "Categories": "American",
     "Price": 59.99,
     "Brand": "Uncle Nearest",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://unclenearest.com/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jameson-Cold-Brew-1.jpeg",
@@ -389,7 +441,8 @@
     "Categories": "Irish",
     "Price": 29.99,
     "Brand": "Jameson Irish Whiskey",
-    "Country": "Ireland"
+    "Country": "Ireland",
+    "Website": "https://www.jamesonwhiskey.com/en-us/our-whiskey/jameson-cold-brew/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Breckenridge-Bourbon-Whiskey-1.jpeg",
@@ -397,7 +450,8 @@
     "Categories": "Bourbon",
     "Price": 44.99,
     "Brand": "Breckenridge Distillery",
-    "Country": "United States"
+    "Country": "United States",
+    "Website": "https://breckenridgedistillery.com/spirits/breckenridge-bourbon/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/The-Balvenie-14-Year-Old-Caribbean-Cask-Single-Malt-Scotch-Whisky-1.jpeg",
@@ -405,7 +459,8 @@
     "Categories": "Scotch",
     "Price": 83.99,
     "Brand": "The Balvenie",
-    "Country": "Scotland"
+    "Country": "Scotland",
+    "Website": "https://www.thebalvenie.com/our-whisky-collection/cask-finishes/caribbean-cask-14/"
   },
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Chivas-Regal-12-Year-1.jpeg",
