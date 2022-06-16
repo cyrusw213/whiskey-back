@@ -17,7 +17,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jack-Daniel8217s-Old-No.-7-Tennessee-Whiskey-3.jpeg",
-      "Name": "Jack Daniel’s Old No. 7 Tennessee Whiskey",
+      "Name": "Jack Daniel's Old No. 7 Tennessee Whiskey",
       "Categories": "Bourbon",
       "Price": 24.99,
       "Brand": "Jack Daniel's",
@@ -33,7 +33,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Maker8217s-Mark-Bourbon-Whisky-3.jpeg",
-      "Name": "Maker’s Mark Bourbon Whisky",
+      "Name": "Maker's Mark Bourbon Whisky",
       "Categories": "Bourbon",
       "Price": 55.99,
       "Brand": "Maker's Mark",
@@ -49,7 +49,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Basil-Hayden8217s-Kentucky-Straight-Bourbon-Whiskey-3.jpeg",
-      "Name": "Basil Hayden’s Kentucky Straight Bourbon Whiskey",
+      "Name": "Basil Hayden's Kentucky Straight Bourbon Whiskey",
       "Categories": "Bourbon",
       "Price": 44.99,
       "Brand": "Basil Hayden's",
@@ -97,7 +97,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jack-Daniel8217s-Tennessee-Honey-2.jpeg",
-      "Name": "Jack Daniel’s Tennessee Honey",
+      "Name": "Jack Daniel's Tennessee Honey",
       "Categories": "Flavored",
       "Price": 46.93,
       "Brand": "Jack Daniel's",
@@ -185,7 +185,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jack-Daniel8217s-Gentleman-Jack-Tennessee-Whiskey-2.jpeg",
-      "Name": "Jack Daniel’s Gentleman Jack Tennessee Whiskey",
+      "Name": "Jack Daniel's Gentleman Jack Tennessee Whiskey",
       "Categories": "American",
       "Price": 32.99,
       "Brand": "Jack Daniel's",
@@ -233,7 +233,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Basil-Hayden8217s-Dark-Rye-Whiskey-2.jpeg",
-      "Name": "Basil Hayden’s Dark Rye Whiskey",
+      "Name": "Basil Hayden's Dark Rye Whiskey",
       "Categories": "Rye",
       "Price": 44.99,
       "Brand": "Basil Hayden's",
@@ -241,7 +241,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Blanton8217s-Single-Barrel-Bourbon-2.jpeg",
-      "Name": "Blanton’s Single Barrel Bourbon",
+      "Name": "Blanton's Single Barrel Bourbon",
       "Categories": "Bourbon",
       "Price": 99.99,
       "Brand": "Blanton's",
@@ -265,7 +265,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Maker8217s-46-Bourbon-Whisky-2.jpeg",
-      "Name": "Maker’s 46 Bourbon Whisky",
+      "Name": "Maker's 46 Bourbon Whisky",
       "Categories": "Bourbon",
       "Price": 40.69,
       "Brand": "Maker's Mark",
@@ -289,7 +289,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Angel8217s-Envy-Kentucky-Straight-Bourbon-Whiskey-2.jpeg",
-      "Name": "Angel’s Envy Kentucky Straight Bourbon Whiskey",
+      "Name": "Angel's Envy Kentucky Straight Bourbon Whiskey",
       "Categories": "Bourbon",
       "Price": 54.99,
       "Brand": "Angel's Envy",
@@ -345,7 +345,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jack-Daniel8217s-Tennessee-Fire-Flavored-Whiskey-1.jpeg",
-      "Name": "Jack Daniel’s Tennessee Fire Flavored Whiskey",
+      "Name": "Jack Daniel's Tennessee Fire Flavored Whiskey",
       "Categories": "Flavored",
       "Price": 24.99,
       "Brand": "Jack Daniel's",
@@ -513,7 +513,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jack-Daniel8217s-Tennessee-Apple-Flavored-Whiskey.jpeg",
-      "Name": "Jack Daniel’s Tennessee Apple Flavored Whiskey",
+      "Name": "Jack Daniel's Tennessee Apple Flavored Whiskey",
       "Categories": "Flavored",
       "Price": 24.99,
       "Brand": "Jack Daniel's",
@@ -545,7 +545,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Michter8217s-US-1-Kentucky-Straight-Rye.jpeg",
-      "Name": "Michter’s US-1 Kentucky Straight Rye",
+      "Name": "Michter's US-1 Kentucky Straight Rye",
       "Categories": "Rye",
       "Price": 47.07,
       "Brand": "Michter's",
@@ -617,7 +617,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Hochstadter8217s-Slow-038-Low-Rock-and-Rye.jpeg",
-      "Name": "Hochstadter’s Slow & Low Rock and Rye",
+      "Name": "Hochstadter's Slow & Low Rock and Rye",
       "Categories": "Rye",
       "Price": 26.87,
       "Brand": "Hochstadter's",
@@ -625,7 +625,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/The-Glenlivet-Founder8217s-Reserve.jpeg",
-      "Name": "The Glenlivet Founder’s Reserve",
+      "Name": "The Glenlivet Founder's Reserve",
       "Categories": "Scotch",
       "Price": 40.99,
       "Brand": "The Glenlivet",
@@ -657,7 +657,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Buchanan8217s-DeLuxe-Aged-12-Years-Blended-Scotch-Whisky.jpeg",
-      "Name": "Buchanan’s DeLuxe Aged 12 Years Blended Scotch Whisky",
+      "Name": "Buchanan's DeLuxe Aged 12 Years Blended Scotch Whisky",
       "Categories": "Scotch Whisky",
       "Price": 38.49,
       "Brand": "Buchanan's",
@@ -665,7 +665,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Michter8217s-US-1-Kentucky-Straight-Bourbon.jpeg",
-      "Name": "Michter’s US-1 Kentucky Straight Bourbon",
+      "Name": "Michter's US-1 Kentucky Straight Bourbon",
       "Categories": "Bourbon",
       "Price": 46.99,
       "Brand": "Michter's",
@@ -723,7 +723,7 @@
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Booker8217s-Bourbon.jpeg",
-      "Name": "Booker’s Bourbon",
+      "Name": "Booker's Bourbon",
       "Categories": "Bourbon",
       "Price": 89.99,
       "Brand": "Booker's",
@@ -764,13 +764,13 @@
       "Price": 58.99,
       "Brand": "Glenfiddich",
       "Country": "Scotland",
-      "Website": "https://www.glenfiddich.com/us/collection/product-collection/core-range/bourbon-barrel-reserve-14-year-old/
+      "Website": "https://www.glenfiddich.com/us/collection/product-collection/core-range/bourbon-barrel-reserve-14-year-old/"
 
       
     },
     {
       "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jim-Beam-Devils-Cut-Bourbon-Whiskey.jpeg",
-      "Name": "Jim Beam Devil’s Cut Bourbon Whiskey",
+      "Name": "Jim Beam Devil's Cut Bourbon Whiskey",
       "Categories": "Bourbon",
       "Price": 22.99,
       "Brand": "Jim Beam",
