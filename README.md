@@ -10,8 +10,8 @@ The Spirits Within
 * Trevor Faivre - Product Manager, Front-End
 
 ## Visuals
-* <img src="https://imgur.com/uqPj4Ln">
-* <img src="https://imgur.com/zat6SH5">
+* <img src="https://imgur.com/uqPj4Ln" alt="erd 1"> 
+* <img src="https://imgur.com/zat6SH5" alt="erd 2">
 
 ## Technologies Used
 React, Node, MongoDB, Mongoose, HTML, CSS, JavaScript, Node
