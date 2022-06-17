@@ -1,13 +1,14 @@
-require('dotenv').config();
 // DEPENDENCIES /////////////////////////////////////////
 ////////////////////////////////////////////////////////
 const express = require('express');
 const app = express(); 
+require('dotenv').config();
+const whiskeyController = require('./controllers/whiskeys')
 
 const { PORT, MONGODB_URI } = process.env; 
 
 // IMPORT SEED DATA JSON FILE
-const whiskeyData = require('./whiskeyData.json');
+const whiskeyData = require('./whiskeyData');
 
 // IMPORT WHISKEY SCHEMA
 const Whiskey = require('./models/whiskeySchema')
@@ -35,20 +36,7 @@ mongoose.connection
 app.use(cors()); // Access-Control-Allow
 app.use(morgan('dev'));
 app.use(express.json());//this creates req.body
-
-// ////////////////////////////
-// ROUTES
-// Test Route 
-app.get("/", (req, res) => {
-    res.send("Hello World")
-}); 
-
-// route for retrieving all whiskey data 
-app.get("/all", (req, res) => {
-    res.json(whiskeyData);
-});
-
-
+app.use(whiskeyController)
 
 
 app.listen(PORT, () => console.log(`I love you ${PORT}`)); 
