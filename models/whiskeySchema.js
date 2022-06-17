@@ -3,11 +3,13 @@ const Schema = mongoose.Schema;
 
 const whiskeySchema = new Schema(
     {
+        "Name": String,
+        "Categories": String,
         "Photo": String,
         "Price": Number,
         "Brand": String, 
         "Country": String,
-        "Rating": {type: Number, default: 3}
+        "Rating": {type: Number, default: null}
     }
 );
 
