@@ -8,11 +8,11 @@ const admin = require('firebase-admin');
 // CONFIGURE APP SETTINGS ////////////////////
 require('dotenv').config();
 
-const serviceAccount = require('./firebase-service-key.json');
+// const serviceAccount = require('./firebase-service-key.json');
 
-admin.initializeApp({
-    credential: admin.credential.cert(serviceAccount)
-}); 
+// admin.initializeApp({
+//     credential: admin.credential.cert(serviceAccount)
+// }); 
 
 const { PORT, MONGODB_URI } = process.env; 
 
