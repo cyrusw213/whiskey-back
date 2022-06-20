@@ -44,7 +44,7 @@ router.get("/all", async (req, res) => {
 // });
 
 //new 
-router.post("/all", async (req, res) => {
+router.post("/whiskey", async (req, res) => {
     try {
         //send all whiskeys
         res.json(await Whiskey.create(req.body));
@@ -64,7 +64,10 @@ router.put("/whiskey/:id", async (req, res) => {
     try {
         //send all whiskey
         res.json(
-            await Whiskey.findByIdAndUpdate(req.params.id, req.body, { new : true })
+            await Whiskey.findByIdAndUpdate(
+                req.params.id, 
+                req.body, 
+                { new : true })
         );
         } catch (error) {
             //send error 
