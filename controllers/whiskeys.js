@@ -24,7 +24,7 @@ router.get("/", (req, res) => {
 // });
 
 //index
-router.get("/all", async (req, res) => {
+router.get("/whiskey", async (req, res) => {
     try {
         //send all whiskeys
         res.json(await Whiskey.find({}));
@@ -44,7 +44,7 @@ router.get("/all", async (req, res) => {
 // });
 
 //new 
-router.post("/all", async (req, res) => {
+router.post("/whiskey", async (req, res) => {
     try {
         //send all whiskeys
         res.json(await Whiskey.create(req.body));
@@ -60,7 +60,7 @@ router.post("/all", async (req, res) => {
 //edit 
 
 //update 
-router.put("/all/:id", async (req, res) => {
+router.put("/whiskey/:id", async (req, res) => {
     try {
         //send all whiskey
         res.json(
