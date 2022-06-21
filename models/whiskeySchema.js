@@ -9,7 +9,8 @@ const whiskeySchema = new Schema(
         "Price": Number,
         "Brand": String, 
         "Country": String,
-        "Rating": {type: Number, default: 0}
+        "Website": String,
+        "Rating": {type: Number, default: 0, min: 0, max: 5}       
     }
 );
 
