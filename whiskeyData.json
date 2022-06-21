@@ -20,7 +20,7 @@
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Jack-Daniel8217s-Old-No.-7-Tennessee-Whiskey-3.jpeg",
     "Name": "Jack Daniel's Old No. 7 Tennessee Whiskey",
-    "Categories": "Bourbon",
+    "Categories": "American",
     "Price": 24.99,
     "Brand": "Jack Daniel's",
     "Country": "United States",
@@ -519,7 +519,7 @@
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/TX-Blended-Whiskey-1.jpeg",
     "Name": "TX Blended Whiskey",
-    "Categories": "Blended",
+    "Categories": "American",
     "Price": 37.99,
     "Brand": "Firestone & Robertson",
     "Country": "United States",
@@ -573,7 +573,7 @@
   {
     "Photo": "https://wikiliq.org/wp-content/uploads/2021/02/Wild-Turkey-American-Honey.jpeg",
     "Name": "Wild Turkey American Honey",
-    "Categories": "Bourbon",
+    "Categories": "Flavored",
     "Price": 22.98,
     "Brand": "Wild Turkey Bourbon",
     "Country": "United States",
