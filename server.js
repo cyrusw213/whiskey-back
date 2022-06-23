@@ -1,20 +1,18 @@
 // DEPENDENCIES /////////////////////////////////////////
 ////////////////////////////////////////////////////////
 const express = require('express');
-const app = express(); 
+const app = express();
 const whiskeyController = require('./controllers/whiskeys')
-const admin = require('firebase-admin'); 
+const admin = require('firebase-admin');
 
 // CONFIGURE APP SETTINGS ////////////////////
 require('dotenv').config();
 
-// const serviceAccount = require('./firebase-service-key.json');
+admin.initializeApp({
+    credential: admin.credential.cert(require('./firebase-service-key.json'))
+});
 
-// admin.initializeApp({
-//     credential: admin.credential.cert(serviceAccount)
-// }); 
-
-const { PORT, MONGODB_URI } = process.env; 
+const { PORT, MONGODB_URI } = process.env;
 
 // IMPORT SEED DATA JSON FILE
 const whiskeyData = require('./whiskeyData');
@@ -24,13 +22,13 @@ const Whiskey = require('./models/whiskeySchema')
 
 // MIDDLEWARE DEPENDENCIES /////////////////////////////
 ///////////////////////////////////////////////////////
-const cors = require('cors'); 
-const morgan = require('morgan'); 
+const cors = require('cors');
+const morgan = require('morgan');
 
 // MONGOOSE CONNECTION TO DATABASE////////////////////
 /////////////////////////////////////////////////////
 const mongoose = require('mongoose');
-mongoose.connect(MONGODB_URI);  
+mongoose.connect(MONGODB_URI);
 
 // Connection Events ///////////////////////////////
 mongoose.connection
@@ -49,25 +47,32 @@ app.use(whiskeyController)
 
 // AUTHORIZATION MIDDLEWARE ////////////////
 // creates user and authenticates user token
-// app.use(async (req, res, next) => {
-//     const token = req.get('Authorization');
-//     if (token) {
-//         console.log(token); 
-//         const user = await admin.auth().verifyIdToken(token.replace('Bearer ', ""));
-//         req.user = user; 
-//     } else {
-//         req.user = null;
-//     }
-//     next();
-// });
-// // check if req.user exists (is user authenticated?)
-// function isAuthenticated(req, res, next) {
-//     if (!req.user) {
-//         return res.status(401).json({ message: 'you must be logged in to save favorite'}); 
-//     } else {
-//         return next();
-//     };
-// }; 
+app.use((req, res, next) => {
+    const token = req.get('Authorization');
+    if (token) {
+        console.log(token);
+    } 
+    next()
+      
+    });
+    // check if req.user exists (is user authenticated?)
 
 
-app.listen(PORT, () => console.log(`I love you ${PORT}`)); 
+
+
+
+app.get("/favorites",
+    async (req, res) => {
+        try {
+            //send all whiskeys
+            res.json(await Whiskey.find({}));
+        } catch (error) {
+            //send error
+            res.status(400).json(error)
+        }
+    });
+
+
+app.listen(PORT, () => console.log(`I love you ${PORT}`));
+
+

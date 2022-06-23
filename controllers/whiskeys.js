@@ -33,15 +33,7 @@ router.get("/whiskey", async (req, res) => {
         res.status(400).json(error)
     }
 });
-// router.get("/bourbon", async (req, res) => {
-//     try {
-//         //send all whiskeys
-//         res.json(await Whiskey.find({}));
-//     } catch (error) {
-//         //send error
-//         res.status(400).json(error)
-//     }
-// });
+
 
 //new 
 router.post("/whiskey", async (req, res) => {
@@ -57,7 +49,6 @@ router.post("/whiskey", async (req, res) => {
 
 //delete
 
-//edit 
 
 //update 
 router.put("/whiskey/:id", async (req, res) => {
@@ -69,13 +60,19 @@ router.put("/whiskey/:id", async (req, res) => {
                 req.body, 
                 { new : true })
         );
-        } catch (error) {
+    } catch (error) {
             //send error 
             res.status(400).json(error);
         }
     });
+    
+    //edit 
 
-// show 
+
+
+
+
+    // show 
 
 
 module.exports=router;
