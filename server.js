@@ -1,6 +1,7 @@
 // DEPENDENCIES /////////////////////////////////////////
 ////////////////////////////////////////////////////////
 const express = require('express');
+const mongoose = require('mongoose')
 const app = express(); 
 const whiskeyController = require('./controllers/whiskeys')
 const admin = require('firebase-admin'); 
@@ -29,17 +30,16 @@ const morgan = require('morgan');
 
 // MONGOOSE CONNECTION TO DATABASE////////////////////
 /////////////////////////////////////////////////////
-const mongoose = require('mongoose');
-mongoose.connect(MONGODB_URI);  
+mongoose
+  .connect(
+    MONGODB_URI,
+    { useNewUrlParser: true }
+  )
+  .then(() => console.log('MongoDB Connected'))
+  .catch(err => console.log(err));
+
 
 // Connection Events ///////////////////////////////
-mongoose.connection
-    .on("connected", () => console.log("You are connected to mongoose"))
-    .on("disconnected", () => console.log("You are disconnected from mongoose"))
-    .on("error", (error) => console.log("Error with MongoDB: " + error.message));
-//////////////////////////////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////////////////////////////
-
 // ////////////////////////////////
 // MIDDLEWARE
 app.use(cors()); // Access-Control-Allow
@@ -71,3 +71,5 @@ app.use(whiskeyController)
 
 
 app.listen(PORT, () => console.log(`I love you ${PORT}`)); 
+
+module.exports = app
